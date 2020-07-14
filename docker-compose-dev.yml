@@ -1,4 +1,4 @@
-version: '3'
+version: '2'
 services:
   opencti-dev-grakn:
     container_name: opencti-dev-grakn 
